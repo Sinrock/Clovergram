@@ -1,7 +1,5 @@
 # README
 
-**rails generate devise:install needs to be done/configured next**
-
 * Ruby version
 
 * System dependencies
